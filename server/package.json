@@ -1,13 +1,13 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "",
+    "description": "PWA server side",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
+    "author": "Ricky Medina",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
